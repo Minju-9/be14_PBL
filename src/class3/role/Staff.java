@@ -1,6 +1,7 @@
 package class3.role;
 
 import class3.policy.StaffSubmissionPolicy;
+import class3.policy.SubmissionPolicy;
 
 public class Staff extends Role {
     private String position;

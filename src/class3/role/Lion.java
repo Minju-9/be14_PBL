@@ -2,6 +2,7 @@ package class3.role;
 
 
 import class3.policy.LionSubmissionPolicy;
+import class3.policy.SubmissionPolicy;
 
 public class Lion extends Role {
     private String studentId;

@@ -1,5 +1,7 @@
 package class3.role;
 
+import class3.policy.SubmissionPolicy;
+
 public abstract class Role {
     private String name;
     private String major;
